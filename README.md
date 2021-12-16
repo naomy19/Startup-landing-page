@@ -36,9 +36,8 @@ Link: https://naomy19.github.io/Startup-landing-page/
 
 ## Layout
 
-<!-- image -->
 <p align="center">
-  <img alt="startup-page" title="#startup-page" src="" width="200px">
+  <img alt="startup-page" title="#startup-page" src="startup-page-layout.png" width="600px">
 </p>
 
 ---
